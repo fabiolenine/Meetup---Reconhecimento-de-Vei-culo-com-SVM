@@ -31,6 +31,10 @@ Todos são bem-vindos, não importa o nível de conhecimento!
 
 [SciKit-Learn](http://scikit-learn.org/stable/install.html)
 
+[SciPy](https://www.scipy.org/install.html)
+
+[MoviePy](https://pypi.python.org/pypi/moviepy)
+
 
 **Conteúdo do Meetup**
 
